@@ -34,7 +34,7 @@ body{
 .freeze-columnn-container table th,
 .freeze-columnn-container table tfoot td,
 .freeze-columnn-container table .fixed-cell {
-    background: #fefefe;
+    background: #F7F7F7;
 }
 
 .freeze-columnn-container table .cross {
