@@ -1,5 +1,5 @@
 
-# **QuickApp** - ASPNET Core 2.1 / Angular 7 startup project template
+# **QuickApp** - AngularJS 1.x Fixed Header, Footer and Dynamic Column
 [![MIT license](https://cdn.rawgit.com/emonney/tempa/7e9d69ad/MITLicense.png)](https://github.com/emonney/QuickApp/blob/master/LICENSE)
 
 A startup **Angular 7 / ASP.NET Core 2.1** (cross-platform ) **project template** with an end-to-end login, user and role management implementation.
